@@ -1,3 +1,4 @@
+ls
 """
 ASGI config for django_project project.
 
